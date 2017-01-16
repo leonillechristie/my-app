@@ -1,0 +1,11 @@
+
+For the Portfolio, consider this as your online resume and you are given free will to design it. 
+Recommended content format:
+
+Recommended Links:
+1. Home 
+2. Who Am I (Write something about yourself and your goals this year and the future -- - at least 200 words)
+3. Your current status being a STUDENT and Why You think IT/ your course is awesome 
+4. Hire Me! What you can offer - list down your SKILLSET (i.e. Web Development, PHP, Ruby on Rails, MySQL, Photoshop, etc. ) 
+5. Projects (if any - provide images, project links, project title, short description and your role in that project)
+6. Contact Me / Follow Me/ Get in Touch  (Add here buttons and your respective links for Personal Email, Linkedin, Github, Bitbucket, Twitter, etc) 

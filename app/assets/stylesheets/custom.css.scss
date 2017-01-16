@@ -1,0 +1,60 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+@font-face{
+	font-family: 'perf';
+	src: url('/fonts/Perf.ttf');
+}
+
+body{
+	background-color: #F6E7D2;
+}
+
+p{
+	font-family: 'perf';
+	color: #0A4958;
+	font-size: 30px;
+}
+
+.about-img{
+	width: 150px;
+	height: 150px;
+}
+
+.tile{
+	background-color: #01B6AD;
+	margin: 20px;
+}
+
+.tile-icon{
+	background-color: #FFFFFF;
+	padding: 30px;
+	border-left: solid 10px #01B6AD;
+}
+
+.tile-body{
+	padding: 30px;
+}
+
+table{
+	thead{
+		background-color: #F6E7D2;
+		th{
+			color: white;
+			text-align: center;
+			font-family: 'perf';
+			font-size: 30px;
+		}
+	}
+}
+
+.skill{
+	padding: 50px;
+	h2{
+		font-family: 'perf';
+		color: white;
+	}
+	hr{
+		margin: 30px;
+	}
+}
